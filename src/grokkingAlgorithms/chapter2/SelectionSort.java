@@ -2,7 +2,7 @@ package grokkingAlgorithms.chapter2;
 
 import java.util.Arrays;
 
-public class selection_sort {
+public class SelectionSort {
 
     public static int findBiggestValue(int[] array, int i) {
         int bIndex = i;

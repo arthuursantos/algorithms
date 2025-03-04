@@ -1,6 +1,6 @@
 package grokkingAlgorithms.chapter2;
 
-public class arrays_e_listas_encadeadas {
+public class ArraysAndLinkedLists {
 }
 
 // 2.1 Suponha que você esteja criando um aplicativo para acompanhar as suas finanças.

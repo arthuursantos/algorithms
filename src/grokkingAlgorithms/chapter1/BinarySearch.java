@@ -1,6 +1,6 @@
 package grokkingAlgorithms.chapter1;
 
-public class binary_search {
+public class BinarySearch {
 
     public static Integer search(int[] array, int target) {
         int first = 0;

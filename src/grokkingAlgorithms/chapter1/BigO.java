@@ -1,6 +1,6 @@
 package grokkingAlgorithms.chapter1;
 
-public class bigO_notation {
+public class BigO {
     public static void main(String[] args) {
     }
 }
